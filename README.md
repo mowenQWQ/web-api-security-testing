@@ -5,6 +5,8 @@
 
 [中文](#中文) | [English](#english)
 
+> ⚠️ **AI 使用说明**：本作品由 AI 辅助生成（生成时间：2026-09-05）。仅供学习与参考使用，发布、引用或投入使用前请人工核实关键信息。
+
 ---
 
 ## 中文
@@ -66,11 +68,3 @@ cp -r web-api-security-testing /path/to/your/agent/skills/
 MIT-0（MIT No Attribution）— 详见 [LICENSE](LICENSE)。任何人可自由使用、修改、再分发，无需署名。
 
 MIT No Attribution — see [LICENSE](LICENSE). Free to use, modify, and redistribute with no attribution required.
-
----
-
-## 🤖 AI 使用声明 / AI Usage Disclosure
-
-本项目在开发与维护过程中使用了 AI 编程助手（Claude / Anthropic）辅助代码编写、文档整理与问题排查；核心决策、内容审核与最终发布由维护者完成。
-
-This project was developed and maintained with the assistance of an AI coding assistant (Claude / Anthropic) for coding, documentation, and troubleshooting. Core decisions, content review, and final releases are made by the maintainer.
